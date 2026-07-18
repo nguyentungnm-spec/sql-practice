@@ -80,13 +80,7 @@ category_name
 
 ## Initial Dataset
 
-| Table | Records |
-|--------|--------:|
-| Customers | 100 |
-| Categories | 10 |
-| Products | 50 |
-| Orders | 200 |
-| Order Items | 600 |
+Approximate initial dataset
 
 The dataset will be expanded as more advanced SQL topics are learned.
 
