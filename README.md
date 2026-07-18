@@ -71,16 +71,14 @@ The goal is to build a solid SQL foundation for Backend Development and Informat
 
 sql-practice/
 
-│
-
 ├── database/
-
+│   ├── schema.sql
+│   ├── seed.sql
+│   └── DATABASE.md
+│
 ├── lessons/
-
 ├── assets/
-
 ├── README.md
-
 └── ROADMAP.md
 
 ```
